@@ -22,14 +22,15 @@ for letter in sentence:
     # Iterating through the json
     # list
     for i in data['geez']:
-        if i['syllable'] == letter:
-            sentence_phonetic += i['syllable_phonetic']
-        elif letter.isspace():
-            sentence_phonetic += letter
+        if i['syllable'] == letter and i['syllable_grouping'] != 'punctuation':
+            #sentence_phonetic += i['syllable_phonetic']
+            sentence = sentence.replace(letter, i['syllable_phonetic'].lower())
+        #elif letter.isspace():
+        #    sentence_phonetic += ' '
 
 
 
-print(sentence_phonetic)
+print(sentence)
 
 # Closing file
 f.close()
