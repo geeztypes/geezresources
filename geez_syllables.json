@@ -2287,70 +2287,70 @@
         "syllable_decimal": 4960,
         "syllable_hex": "1360",
         "syllable_phonetic": "ETHIOPIC SECTION MARK",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "punctuation"
       },
       {
         "syllable": "፡",
         "syllable_decimal": 4961,
         "syllable_hex": "1361",
         "syllable_phonetic": "ETHIOPIC WORDSPACE",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "punctuation"
       },
       {
         "syllable": "።",
         "syllable_decimal": 4962,
         "syllable_hex": "1362",
         "syllable_phonetic": "ETHIOPIC FULL STOP",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "punctuation"
       },
       {
         "syllable": "፣",
         "syllable_decimal": 4963,
         "syllable_hex": "1363",
         "syllable_phonetic": "ETHIOPIC COMMA",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "punctuation"
       },
       {
         "syllable": "፤",
         "syllable_decimal": 4964,
         "syllable_hex": "1364",
         "syllable_phonetic": "ETHIOPIC SEMICOLON",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "punctuation"
       },
       {
         "syllable": "፥",
         "syllable_decimal": 4965,
         "syllable_hex": "1365",
         "syllable_phonetic": "ETHIOPIC COLON",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "punctuation"
       },
       {
         "syllable": "፦",
         "syllable_decimal": 4966,
         "syllable_hex": "1366",
         "syllable_phonetic": "ETHIOPIC PREFACE COLON",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "punctuation"
       },
       {
         "syllable": "፧",
         "syllable_decimal": 4967,
         "syllable_hex": "1367",
         "syllable_phonetic": "ETHIOPIC QUESTION MARK",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "punctuation"
       },
       {
         "syllable": "፨",
         "syllable_decimal": 4968,
         "syllable_hex": "1368",
         "syllable_phonetic": "ETHIOPIC PARAGRAPH SEPARATOR",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "punctuation"
       },
       {
         "syllable": "፩",
         "syllable_decimal": 4969,
         "syllable_hex": "1369",
         "syllable_phonetic": "ETHIOPIC DIGIT ONE",
-        "syllable_grouping": "Ethiopic"
+        "syllable_grouping": "digit"
       },
       {
         "syllable": "፪",
